@@ -1,2 +1,2 @@
- #!/bi/bash
-sort /etc/passwd
+#!/bi/bash
+grep | sort /etc/passwd
