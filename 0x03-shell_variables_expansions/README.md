@@ -5,3 +5,4 @@
 5-local_variables -->Create a script that lists all local variables and environment variables, and functions
 6-create_local_variable -->Create a script that creates a new local variable.1) Name: BEST 2) Value: School
 7-create_global_variable -->Create a script that creates a new global variable.1) Name: BEST 2) Value: School
+13-print_float --> Write a script that prints a number with two decimal places, followed by a new line.The number will be stored in the environment variable NUM
